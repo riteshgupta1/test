@@ -1,0 +1,5 @@
+{{#riteshgupta1}}
+Name: Ritesh
+Skills: HTML, CSS, c++, python, dsa
+Email: riteshgzp2017@gmail.com
+{{/riteshgupta1}}
